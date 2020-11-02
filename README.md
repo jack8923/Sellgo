@@ -15,6 +15,6 @@ The database contains two tables "customer" and "csv_product"
 APIs:-
 1. /customer  - GET all the customers and POST customers.
 2. /customer/<int: pk>  - GET all the unique title orders of customer with 'id=pk'(ReadOnly API).
-3. /products :- POST by uploading CSV file 
+3. /products :- POST by uploading CSV file (format of the CSV file as shown below)
 
 **FORMAT OF CSV FILE** :-  ![Capture (if photo is not visible open the Capture.png file from the root directory)](Capture.png)
