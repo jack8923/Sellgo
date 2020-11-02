@@ -17,6 +17,4 @@ APIs:-
 2. /customer/<int: pk>  - GET all the unique title orders of customer with 'id=pk'(ReadOnly API).
 3. /products :- POST by uploading CSV file 
 
-**FORMAT OF CSV FILE**
-
-![Capture (if photo is not visible open the Capture.png file from the root directory)](Capture.png)
+**FORMAT OF CSV FILE** :-  ![Capture (if photo is not visible open the Capture.png file from the root directory)](Capture.png)
