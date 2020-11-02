@@ -19,4 +19,4 @@ APIs:-
 
 **FORMAT OF CSV FILE**
 
-![Screenshot](Capture.png)
+![Capture (if photo is not visible open the Capture.png file from the root directory)](Capture.png)
